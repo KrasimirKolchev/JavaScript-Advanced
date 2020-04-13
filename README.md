@@ -1,4 +1,8 @@
-JavaScript Advanced module: (https://softuni.bg/trainings/2447/js-advanced-september-2019)
+#JavaScript Advanced module at [SoftUni](https://softuni.bg)
+
+JavaScript Advanced course: (https://softuni.bg/trainings/2447/js-advanced-september-2019)
+<br/>
+[SoftUni Certificate](https://softuni.bg/certificates/certificates/converttoimage/74981?code=0a668ffb)
 <br/>
   * Syntax, Functions and Statements: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/SyntaxFunctionsAndStatements) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/SyntaxFunctionsAndStatementsEx) <span/>
   * Objects: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/Objects) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/ObjectsEx) <span/>
@@ -9,7 +13,7 @@ JavaScript Advanced module: (https://softuni.bg/trainings/2447/js-advanced-septe
   * Classes: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/Classes) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/ClassesEx) <span/>
   * Unit Testing and Modules: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/UnitTestingAndModules) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/UnitTestingAndModulesEx) <span/>
   * Strings and RegExp: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/StringAndRegEX) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/StringAndRegEXEx) <span/>
-  * [ExamPrep](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/ExamPrep)
-  * : <span> [Lab]() <span/><span> [Exercises]() <span/>
+  * [ExamPrep](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/ExamPrep) <span/>
+  * [Exam]() <span/>
   * : <span> [Lab]() <span/><span> [Exercises]() <span/>
   * : <span> [Lab]() <span/><span> [Exercises]() <span/>
