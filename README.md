@@ -14,6 +14,6 @@ JavaScript Advanced course: (https://softuni.bg/trainings/2447/js-advanced-septe
   * Unit Testing and Modules: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/UnitTestingAndModules) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/UnitTestingAndModulesEx) <span/>
   * Strings and RegExp: <span> [Lab](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/StringAndRegEX) <span/><span> [Exercises](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/StringAndRegEXEx) <span/>
   * [ExamPrep](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/ExamPrep) <span/>
-  * [Exam]() <span/>
+  * [Exam](https://github.com/KrasimirKolchev/JavaScript-Advanced/tree/master/Exam) <span/>
   * : <span> [Lab]() <span/><span> [Exercises]() <span/>
   * : <span> [Lab]() <span/><span> [Exercises]() <span/>
